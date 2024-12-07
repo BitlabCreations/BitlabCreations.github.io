@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Bitlab Creations design and realize innovative IoT products for smart and curious minds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "bitlabcreations.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lucagessi
-github_username:  lucagessi
+instagram_username: bitlabcreations
+github_username:  bitlabcreations
 
 # Build settings
 theme: minima
