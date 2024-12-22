@@ -23,6 +23,11 @@ Then click second button for download song to busyboard.<br>
 <br>
 The operation can take up to 5 minutes, so have patience.
 <br>
+<br>
+
+![busyboard app wait](/media/music_update.PNG)
+
+<br>
 If you want to ajust the volume of a sing track click on volume icon and set volume using the slider. <br>
 If you want to delete a track from the list use the trash icon on the right of the track.
 <br><br>
