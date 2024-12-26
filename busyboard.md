@@ -5,7 +5,7 @@ lang: it
 permalink: /busyboard/
 ---
 Smart busyboard. Usa l'applicazione per windows per caricare le tue tracce audio preferite.<br>
-[busyboard app per windows](https://drive.google.com/file/d/1jqDeZJ4lyP5v8ee3G8-rtltt8ndLLr0q/view?usp=drive_link) <br>
+[busyboard app per windows](https://github.com/BitlabCreations/busyboard_win_app_releases/releases/tag/v1.0.0) <br>
 Collega la busyboard al PC usando un cavo USB C. Collega il cav o al connettore USB frontale (no il cavo laterale). Vedi l'immagine sotto. <br> <br>
 <img src="/media/pc bb usb c.jpg" alt="drawing" width="50%" style="display:block;margin-left:auto;margin-right:auto;"/>
 <br>
