@@ -1,39 +1,40 @@
 ---
 layout: page
 title: Busyboard
+lang: it
 permalink: /busyboard/
 ---
-Smart busyboard. Use the desktop application for upload your favorite music.<br>
-[busyboard app for windows](https://drive.google.com/file/d/14bz8HStMlPCVWNiUCOe4ULoi5ooQp4IR/view?usp=drive_link) <br>
-Connect the busyboard to PC using a USB C cable (not included). Connect the cable to the front USB connector (not the lateral cable). See image below. <br> <br>
+Smart busyboard. Usa l'applicazione per windows per caricare le tue tracce audio preferite.<br>
+[busyboard app per windows](https://drive.google.com/file/d/14bz8HStMlPCVWNiUCOe4ULoi5ooQp4IR/view?usp=drive_link) <br>
+Collega la busyboard al PC usando un cavo USB C. Collega il cav o al connettore USB frontale (no il cavo laterale). Vedi l'immagine sotto. <br> <br>
 <img src="/media/pc bb usb c.jpg" alt="drawing" width="50%" style="display:block;margin-left:auto;margin-right:auto;"/>
 <br>
-Extract app zip file. Double click on app.exe.<br>
+Estrai lo zip scaricato e esegui doppio click sul .exe . Windows potrebbe rilevare la app come virus, ovviamente non lo è, quindi acconsenti ad eseguire l'applicazione.<br>
 
 ![busyboard app main view](/media/app_mainview.PNG)
  <br>
-Add all the songs you want using first button. <br>
+Premi il pulsante "Aggiungi canzone" per aggiungere le tracce che preferisci. <br>
 
 ![busyboard app song list](/media/app_songs_list.PNG)
 
-Then click second button for download song to busyboard.<br>
+Premi il pulsante "Scarica le canzoni" per iniziare l'aggiornamento della busyboard.<br>
 
 ![busyboard app song list](/media/download_0perc.PNG)
 
 <br>
-The operation can take up to 5 minutes, so have patience.
+L'operazione può durare fino 5 minuti, quindi abbi pazienza e bevi un caffè &#9749; o una birra &#127866; .
 <br>
 <br>
 
 ![busyboard app wait](/media/music_update.PNG)
 
 <br>
-If you want to ajust the volume of a sing track click on volume icon and set volume using the slider. <br>
-If you want to delete a track from the list use the trash icon on the right of the track.
+Se vuoi modificare il volume di tracce specifiche, puoi farlo cliccando sulla icona del volume a destra di ogni traccia. Usa il cursore che si apre per scegliere il volume.<br>
+Se vuoi cancellare una traccia premi sull'icona a destra a forma di &#10006; .
 <br><br>
 
 ![busyboard app song list](/media/volume_delete.PNG)
 <br>
 
-**NOTE**: after uploading new songs the microphone recordings will be deleted.
+**NOTE**: attualmente l'aggiornamento delle tracce cancella tutte le registrazioni fatte con il microfono. 
 
