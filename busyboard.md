@@ -14,8 +14,10 @@ Estrai lo zip scaricato e esegui doppio click sul .exe . Windows potrebbe rileva
 ![busyboard app main view](/media/app_mainview.PNG)
  <br>
 Premi il pulsante "Aggiungi canzone" per aggiungere le tracce che preferisci. <br>
-
-![busyboard app song list](/media/app_songs_list.PNG)
+<br>
+Se vuoi cancellare una traccia premi sull'icona a destra a forma di &#10006; .
+<br><br>
+![busyboard app song list](/media/lista%20canzoni.jpg)
 
 Premi il pulsante "Scarica le canzoni" per iniziare l'aggiornamento della busyboard.<br>
 
@@ -28,13 +30,6 @@ L'operazione può durare fino 5 minuti, quindi abbi pazienza e bevi un caffè &#
 
 ![busyboard app wait](/media/music_update.PNG)
 
-<br>
-Se vuoi modificare il volume di tracce specifiche, puoi farlo cliccando sulla icona del volume a destra di ogni traccia. Usa il cursore che si apre per scegliere il volume.<br>
-Se vuoi cancellare una traccia premi sull'icona a destra a forma di &#10006; .
-<br><br>
 
-![busyboard app song list](/media/volume_delete.PNG)
-<br>
 
-**NOTE**: attualmente l'aggiornamento delle tracce cancella tutte le registrazioni fatte con il microfono. 
-
+**NOTE**: se l'aggiornamento si blocca per qualche motivo o non va a buon fine, ad esempio perchè le batterie sono scariche, è necessario rieseguire l'oeprazione da capo e completarla con successo.
