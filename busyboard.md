@@ -6,11 +6,17 @@ permalink: /busyboard/
 ---
 
 # Contenuti
-1. [Funzionamento busyboard](#Funzionamento busyboard)
-2. [Busyboard app](#Busyboard app)
-   1. [Download app](#Download app)
-   2. [Collegamento busyboard](#Collegamento busyboard)
-   3. [Carimanento audio personalizzato](#Carimanento audio personalizzato)
+- [Contenuti](#contenuti)
+- [Funzionamento busyboard](#funzionamento-busyboard)
+  - [Registrazioni](#registrazioni)
+    - [Come registrare i suoni](#come-registrare-i-suoni)
+    - [Come riprodurre i suoni salvati](#come-riprodurre-i-suoni-salvati)
+  - [Audio](#audio)
+  - [Gestione del volume](#gestione-del-volume)
+- [Busyboard app](#busyboard-app)
+  - [Download app](#download-app)
+  - [Collegamento busyboard](#collegamento-busyboard)
+  - [Caricamento audio personalizzato](#caricamento-audio-personalizzato)
 
 # Funzionamento busyboard
 La busyboard funziona pressochè come le altre ma dispone di microfono integrato e altoparlante. 
@@ -65,7 +71,7 @@ Collega la busyboard al PC usando un cavo USB C. Collega il cav o al connettore 
 <img src="/media/pc bb usb c.jpg" alt="drawing" width="50%" style="display:block;margin-left:auto;margin-right:auto;"/>
 <br>
 
-## Carimanento audio personalizzato
+## Caricamento audio personalizzato
 La applicazione è molto semplice e si presenta come nella immagine sotto. Premi il pulsante "*Aggiungi canzone*" per aggiungere le tracce che preferisci. <br> <br>
 ![busyboard app main view](/media/app_mainview.PNG)
  <br>
