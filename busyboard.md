@@ -60,7 +60,7 @@ Sotto è riportato lo stato dei led per il volume massimo.
 # Busyboard app
 ## Download app
 Per aggiornare le tracce sulla busyboard è necessario utilizzare una applicazione dedicata. Scarica l'applicazione per windows per caricare le tue tracce audio preferite.<br>
-[busyboard app per windows](https://github.com/BitlabCreations/busyboard_app_releases/releases) <br>
+[busyboard app per windows](https://github.com/BitlabCreations/busyboard_app_releases/releases/latest/download/busyboard-app.zip) <br>
 
 Estrai lo zip scaricato e esegui doppio click sul .exe . Windows potrebbe rilevare la app come virus, ovviamente non lo è, quindi acconsenti ad eseguire l'applicazione.<br>
 
