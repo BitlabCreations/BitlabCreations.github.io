@@ -5,8 +5,6 @@ lang: it
 permalink: /busyboard/
 ---
 
-# Contenuti
-- [Contenuti](#contenuti)
 - [Funzionamento busyboard](#funzionamento-busyboard)
   - [Registrazioni](#registrazioni)
     - [Come registrare i suoni](#come-registrare-i-suoni)
@@ -61,18 +59,18 @@ Sotto è riportato lo stato dei led per il volume massimo.
 
 # Busyboard app
 ## Download app
-Per aggiornare le tracce sulla busyboard è necessario utilizzare una applicazione. Scarica l'applicazione per windows per caricare le tue tracce audio preferite.<br>
+Per aggiornare le tracce sulla busyboard è necessario utilizzare una applicazione dedicata. Scarica l'applicazione per windows per caricare le tue tracce audio preferite.<br>
 [busyboard app per windows](https://github.com/BitlabCreations/busyboard_app_releases/releases/tag/v1.1.0) <br>
 
 Estrai lo zip scaricato e esegui doppio click sul .exe . Windows potrebbe rilevare la app come virus, ovviamente non lo è, quindi acconsenti ad eseguire l'applicazione.<br>
 
 ## Collegamento busyboard
-Collega la busyboard al PC usando un cavo USB C. Collega il cav o al connettore USB frontale (no il cavo laterale). Vedi l'immagine sotto. <br> <br>
+Collega la busyboard al PC usando un cavo USB C. Collega il cavo al connettore USB frontale (no il cavo laterale). Vedi l'immagine sotto. <br> <br>
 <img src="/media/pc bb usb c.jpg" alt="drawing" width="50%" style="display:block;margin-left:auto;margin-right:auto;"/>
 <br>
 
 ## Caricamento audio personalizzato
-La applicazione è molto semplice e si presenta come nella immagine sotto. Premi il pulsante "*Aggiungi canzone*" per aggiungere le tracce che preferisci. <br> <br>
+L'applicazione è molto semplice e si presenta come nella immagine sotto. Premi il pulsante "*Aggiungi canzone*" per aggiungere le tracce che preferisci. <br> <br>
 ![busyboard app main view](/media/app_mainview.PNG)
  <br>
 
