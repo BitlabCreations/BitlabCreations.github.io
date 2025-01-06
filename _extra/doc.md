@@ -1,4 +1,4 @@
-# Bitlab Creation - Smart Busyboard
+# Bitlab Creations - Smart Busyboard
 **Grazie per aver acquistato la nostra busy board.**</br>
 
 Siamo convinti che ti divertirai tantissimo.
