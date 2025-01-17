@@ -71,24 +71,23 @@ Collega la busyboard al PC usando un cavo USB C. Collega il cavo al connettore U
 
 ## Caricamento audio personalizzato
 L'applicazione è molto semplice e si presenta come nella immagine sotto. Premi il pulsante "*Aggiungi canzone*" per aggiungere le tracce che preferisci. <br> <br>
-![busyboard app main view](/media/app_mainview.PNG)
  <br>
 
 <br>
 Se vuoi cancellare una traccia premi sull'icona a destra a forma di &#10006; .
 <br><br>
 
-![busyboard app song list](/media/lista%20canzoni.jpg)
+![busyboard app song list](/media/lista%20canzoni.jpg) 
 
 Premi il pulsante "Scarica le canzoni" per iniziare l'aggiornamento della busyboard.<br>
 
-![busyboard app song list](/media/download_0perc.PNG)
+![busyboard app song list](/media/aggiornamento_musica.jpg)
 
 <br>
 L'operazione può durare fino 5 minuti, quindi abbi pazienza e bevi un caffè &#9749; o una birra &#127866; .
 <br>
 <br>
 
-![busyboard app wait](/media/music_update.PNG)
+![busyboard app wait](/media/finedownload.jpg)
 
 **NOTE**: se l'aggiornamento si blocca per qualche motivo o non va a buon fine, ad esempio perchè le batterie sono scariche, è necessario rieseguire l'oeprazione da capo e completarla con successo.
